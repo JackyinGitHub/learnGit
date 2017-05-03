@@ -15,3 +15,8 @@ Git is a version control system.
 	git diff
 5)show history record
 	git log
+6)register github and get ssh-key from my PC
+	ssh-keygen -t rsa -C "877143789@qq.com"
+	then connect github with my computer
+7)push you assigment to github
+	git push origin master

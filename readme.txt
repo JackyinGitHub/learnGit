@@ -9,3 +9,9 @@ Git is a version control system.
 	git add readme.txt
 3)commit the file
 	git commit -m "wrote a reame file"
+4)show status
+	git status
+5)show difference
+	git diff
+5)show history record
+	git log
